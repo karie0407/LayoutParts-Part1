@@ -1,6 +1,5 @@
 @charset "UTF-8";
 /* 回答はここから */
-<<<<<<< HEAD
 
 .list {
   display: flex;
@@ -17,12 +16,4 @@
   margin: 60px;
   padding: 10px;
   list-style: none;
-=======
-.list {
-  display: flex;
-  outline: 10px solid #665;
-  box-shadow: 0 0 0 6px #665;
-  border-radius: 13px;
-  background: #d2b48c;
->>>>>>> 56758a982bca2835475ac3e40ec8112f6e826a68
 }
